@@ -103,3 +103,7 @@ def sendemail():
 Button(root,text="Send", width=20, bg='brown',fg="white", command=sendemail).place(x=180, y=590)
 
 root.mainloop()
+
+#follow me on!
+#fb-https://www.facebook.com/shailendrakr007
+#insta-https://www.instagram.com/shailendra_kr_007/
